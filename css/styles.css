@@ -1,3 +1,5 @@
+
+
 ul {
   list-style: none;
   padding: 0;
@@ -13,4 +15,22 @@ li {
     margin-left: 40px;
 font-weight: 700;
 color: black;
+
 }
+.images-left-side {
+    width: 758px;
+    display: block;
+}
+.text {
+  font-weight: 800;
+  font-size: 24px;
+}
+
+
+
+
+
+
+
+
+
